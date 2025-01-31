@@ -1,6 +1,6 @@
 site_name: My Docs
 nav:
-  Inicio: index.md
-  Prueba: prueba.md
+  - Inicio: index.md
+  - Prueba: prueba.md
 theme:
   name: material
