@@ -21,7 +21,7 @@ De la misma manera repetimos el proceso y aqui esta el resultado.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/3_Usuarios_internos.png)
 
 ---
 
@@ -31,23 +31,23 @@ Una vez ahi, le daremos en Nuevo y procedemos a rellenar todo lo que nos pide.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/4_Interfaz_empleados.png)
 
 - El empleado Raul
   
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/Raul.png)
 
 - El empleado Rodrigo
   
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/Rodrigo.png)
 
 - El empleado Bruno
   
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/Bruno.png)
 
 - El empleado German
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/German.png)
 
 ---
 
@@ -55,7 +55,7 @@ Asi quedaria todo.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/5_Empleados_Realizados.png)
 
 ---
 
@@ -63,7 +63,7 @@ Luego realizamos los departamentos, en el apartado de Empleados, podremos crear 
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/6_Creacion%20de_departamentos.png)
 
 ---
 
@@ -73,7 +73,7 @@ Ahi implementamos la informacion del cliente, en caso pondremos que sea una Comp
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/8_Youtube.png)
 
 ---
 
@@ -81,7 +81,7 @@ A un cliente que esta asociado con la compañia.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/9_Poner_otro_cliente.png)
 
 ---
 
@@ -89,7 +89,7 @@ Lo mismo con otra Compañia que sera Discord.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/10_Discord.png)
 
 ---
 
@@ -97,7 +97,7 @@ Y tambien haremos que un cliente este asociado a esa empresa.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/11_Poner_otro_cliente2.png)
 
 ---
 
@@ -105,7 +105,7 @@ Y ahora para poner Proveedores deberemos de ir al apartado Compra y ahi le darem
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/12_Poner_proveedor.png)
 
 ---
 
@@ -113,7 +113,7 @@ Y haremos otro que seria el Corte Ingles.
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/13_Poner_otro_proveedor.png)
 
 ---
 
@@ -121,4 +121,4 @@ Asi quedarian los Proveedores
 
 ---
 
-![image]()
+![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Raul/14_Proveedores.png)
