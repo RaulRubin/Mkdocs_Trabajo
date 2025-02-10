@@ -1,9 +1,9 @@
 site_name: IAW Proyecto 8-1
 nav:
   - Inicio: index.md
-  - Paso 1 - Bruno: ElectroshopE2.md
+  - Paso 1 - Bruno: ElectroShopE2.md
   - Paso 2 - Raul: Usuarios.md
-  - Paso 3 - Rodrigo: categoriaProductos.md
+  - Paso 3 - Rodrigo: categoriasProductos.md
   - Paso 4 - German: compras.md
   - Paso 5 - German: ventas.md
 theme:
