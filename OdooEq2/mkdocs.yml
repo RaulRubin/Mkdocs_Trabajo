@@ -1,6 +1,10 @@
 site_name: My Docs
 nav:
   - Inicio: index.md
-  - Prueba: prueba.md
+  - Paso 1 - Bruno: ElectroshopE2.md
+  - Paso 2 - Raul: Usuarios.md
+  - Paso 3 - Rodrigo: categoriaProductos.md
+  - Paso 4 - German: compras.md
+  - Paso 5 - German: ventas.md
 theme:
   name: material
