@@ -6,7 +6,7 @@ Pongo su informacion general como su direccion, NIF, Moneda, telefono; movil, Co
 
  ![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Bruno/dc414a14-8870-487d-b68d-9d109d3acaff.jpg)
 
-Instale los idioamas que me pedias
+Instale los idiomas que me pedias
 
  ![image](https://github.com/RaulRubin/Mkdocs_Trabajo/blob/main/OdooEq2/images/Bruno/2bb652b1-b328-4797-9016-b75ade5a1306.jpg)
  
